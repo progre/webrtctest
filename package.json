@@ -54,5 +54,9 @@
   "scripts": {
     "build": "gulp release-build",
     "test": "gulp test:test"
+  },
+  "dependencies": {
+    "restify": "^4.0.4",
+    "socket.io": "^1.4.6"
   }
 }

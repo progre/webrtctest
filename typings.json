@@ -3,10 +3,16 @@
   "version": false,
   "dependencies": {},
   "ambientDependencies": {
+    "bunyan": "registry:dt/bunyan#0.0.0+20160412155112",
     "empower": "registry:dt/empower#0.0.0+20160317120654",
     "mocha": "registry:dt/mocha#2.2.5+20160317120654",
     "node": "registry:dt/node#4.0.0+20160501135006",
     "power-assert": "registry:dt/power-assert#0.0.0+20160316155526",
-    "power-assert-formatter": "registry:dt/power-assert-formatter#0.0.0+20160317120654"
+    "power-assert-formatter": "registry:dt/power-assert-formatter#0.0.0+20160317120654",
+    "restify": "registry:dt/restify#2.0.0+20160425141054",
+    "socket.io": "registry:dt/socket.io#1.4.4+20160317120654",
+    "socket.io-client": "registry:dt/socket.io-client#1.4.4+20160317120654",
+    "webrtc/mediastream": "registry:dt/webrtc/mediastream#0.0.0+20160317120654",
+    "whatwg-fetch": "registry:dt/whatwg-fetch#0.0.0+20160412133644"
   }
 }
